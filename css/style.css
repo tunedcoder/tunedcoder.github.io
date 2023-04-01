@@ -487,6 +487,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro h3{
   color: #fff;
 }
+.owl-carousel .owl-stage {
+  display: flex;
+  align-items: center;
+}
 #intro .qr{
   background: #222636;
   border-radius: 10%;
